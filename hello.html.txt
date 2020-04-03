@@ -5,8 +5,9 @@
     <title>hellooooooo</title>
 </head>
 <body>
-<div>
-bonjour midou
-</div>
+<ul>
+<li>Premiere chance</li>  
+<li>Deuxieme chance</li>
+</ul>
 </body>
 </html>
