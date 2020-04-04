@@ -7,13 +7,10 @@
 <body>
 <ul>
 <li>Premiere chance</li>  
+<li>Deuxieme chance</li>
 <li>bonjour</li>  
-<li>salut</li>
-</ul>
-<ul>
-<li>1</li>  
-<li>2</li>  
-<li>3</li>
+
+
 </ul>
 </body>
 </html>
