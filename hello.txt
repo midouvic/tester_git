@@ -6,10 +6,8 @@
 </head>
 <body>
 <ul>
-<li>Premiere chance</li>  
-<li>bonjour</li>  
-<li>salut</li>
-<li>hania</li>  
+<li>changer remote repo 2</li>  
+<li>bonjour</li>   
 <li>kbida</li>
 </ul>
 <ul>
